@@ -20,6 +20,9 @@ backends:
  - backend:  "local"
    remote:   ""
    fastlist: false
+ - backend:  "baidupan"
+   remote:   "TestBaidupan:"
+   fastlist: false
  - backend:  "b2"
    remote:   "TestB2:"
    fastlist: true

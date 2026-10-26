@@ -21,3 +21,9 @@ __pycache__
 resource_windows_*.syso
 .devcontainer
 /cmd/bisync/testdata/bisync_vscode_debuggers_launch.json
+
+# Local Baidu backend credentials, test data and build artifacts
+/.local/
+/.build/
+/rclone.conf
+/rclone.conf.*

@@ -1,0 +1,17 @@
+backend: baidupan
+name: Baidu Netdisk
+tier: Tier 4
+maintainers: External
+features_score: 1
+integration_tests: Partial
+data_integrity: Other
+performance: Unknown
+adoption: Experimental
+docs: Basic
+security: OAuth
+virtual: false
+remote: 'TestBaidupan:'
+features:
+- CanHaveEmptyDirectories
+hashes: []
+precision: 1000000000

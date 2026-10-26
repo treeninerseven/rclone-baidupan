@@ -18,6 +18,9 @@
 
 # Rclone
 
+此 fork 包含实验性的百度网盘 `baidupan` 后端，支持读写备份及 crypt 加密。
+**[中文部署与使用说明](README.baidupan.md)**。请使用本仓库源码编译；下方上游下载链接中的正式版不含此后端。
+
 Rclone *("rsync for cloud storage")* is a command-line program to sync files and
 directories to and from different cloud storage providers.
 
